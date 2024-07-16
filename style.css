@@ -1,0 +1,105 @@
+
+/*
+=================================================
+Default
+=================================================
+*/
+
+body{
+    padding-top:70px;
+}
+
+p, h2, h3, h4, h5{
+    color: black;
+}
+
+
+
+/*
+=================================================
+Nav Bar
+=================================================
+*/
+
+
+
+/*
+=================================================
+Homepage
+=================================================
+*/
+
+.navbar-img {
+    border-radius: 15%;
+    padding: 5%;
+    width: 75%;
+}
+
+.navbar-link {
+    color: white;
+    text-decoration: none;
+}
+
+/*
+=================================================
+About 
+=================================================
+*/
+
+/* Citation */
+.profile {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.profile img {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.profile h2 {
+    margin-top: 0;
+}
+.profile p {
+    margin-bottom: 10px;
+}
+
+.profile-link {
+    color: red;
+}
+
+.profile-link:hover{
+    color: blue;
+}
+
+/*
+=================================================
+Split 
+=================================================
+*/
+
+.split-nav:hover{
+    color: blue !important;
+}
+
+.split-nav-img{
+    border-radius: 15%;
+    padding: 5%;
+    width: 75%;
+}
+
+/*
+=================================================
+Split 
+=================================================
+*/
+
+/* Chest */
+.workouts-text {
+    text-align: left;
+}
+
+.workout-links:hover{
+    color: blue !important;
+}
